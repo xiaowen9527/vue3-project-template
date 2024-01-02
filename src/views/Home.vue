@@ -15,6 +15,9 @@ import { reactive, toRefs, } from 'vue'
 
 <template>
     <h1 class="color-red">vue3项目</h1>
+       <n-button type="primary">
+      Tertiary
+    </n-button>
 </template>
 
 <style lang='scss' scoped>
