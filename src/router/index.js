@@ -7,6 +7,11 @@ const routes = [
         name: 'Home',
         component: () => import('@/views/Home.vue'),
     },
+    {
+        path: '/register',
+        name: 'Register',
+        component: () => import('@/views/Register.vue'),
+    },
     // 在这里添加更多的路由
 ]
 
