@@ -14,7 +14,7 @@ import { reactive, toRefs, } from 'vue'
 </script>
 
 <template>
-    <h1>vue3项目</h1>
+    <h1 class="color-red">vue3项目</h1>
 </template>
 
 <style lang='scss' scoped>
